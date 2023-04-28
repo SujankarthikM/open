@@ -9,6 +9,7 @@ authors - [@yashppawar](https://github.com/yashppawar) & [@YashVardhan-AI](https
 Install `streamlit-chat` with pip
 ```bash
 pip install streamlit-chat 
+pip install openai
 ```
 
 usage, import the `message` function from `streamlit_chat`
