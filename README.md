@@ -9,6 +9,9 @@ authors - [@yashppawar](https://github.com/yashppawar) & [@YashVardhan-AI](https
 Install `streamlit-chat` with pip
 ```bash
 pip install streamlit-chat 
+```
+Install `openai` with pip
+```bash
 pip install openai
 ```
 
